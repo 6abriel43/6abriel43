@@ -1,7 +1,7 @@
 Hi there 👋
 👨🏾‍💻👋 ¡Hola! Soy Gabriel !
 
-## 🧰 Lenguajes y herramientas que se
+## 🧰 Lenguajes y herramientas que manejo
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
